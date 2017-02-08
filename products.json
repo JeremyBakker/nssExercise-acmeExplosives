@@ -1,0 +1,112 @@
+{
+    "products": [{
+        "mortar": {
+            "type": 0,
+            "category": 1,
+            "name": "Mortar",
+            "description": "This firework will launch an explosive up to 400ft into the air before detonating."
+        },
+        "m90": {
+            "type": 0,
+            "category": 0,
+            "name": "M-90 Small Explosive",
+            "description": "A small but very dangerous explosive that is equalivant to approx. 1/2 a stick of dynamite."
+        },
+        "airbomb": {
+            "type": 2,
+            "category": 1,
+            "name": "Airbomb",
+            "description": "A very powerful explosive that can detonate as high as 750ft in the air for a radius of over 1/4 of a mile wide."
+        },
+        "bees": {
+            "type": 1,
+            "category": 0,
+            "name": "Bees",
+            "description": "A swarm or cluster of points of light that move and dissipate under their own power."
+        },
+        "smoke_bomb": {
+            "type": 0,
+            "category": 0,
+            "name": "Smoke Bomb",
+            "description": "A large ploom of smoke will emit from this small device for up to 5 minutes."
+        },
+        "fireball": {
+            "type": 2,
+            "category": 1,
+            "name": "Fireballs",
+            "description": "Multi-colored large explosive that is launched high into the sky for a magnificient blast."
+        },
+        "snakes": {
+            "type": 0,
+            "category": 0,
+            "name": "Snakes",
+            "description": "A slow moving build up of harmless black powder that simulates a snake."
+        },
+        "firecrackers": {
+            "type": 0,
+            "category": 0,
+            "name": "Firecrackers",
+            "description": "Small fireworks that produce a small bang when lit."
+        },
+        "bottle_rockets": {
+            "type": 1,
+            "category": 0,
+            "name": "Bottle Rockets",
+            "description": "Small rocket that propels itself approx. 40ft into the high before exploding with a loud pop."
+        },
+        "pop_rocks": {
+            "type": 0,
+            "category": 0,
+            "name": "Pop Rocks",
+            "description": "Throw these little guys into a hard surface for a small surprise, safe for all ages."
+        },
+        "fairy_sparklers": {
+            "type": 0,
+            "category": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        },
+        "battery": {
+            "type": 0,
+            "category": 1,
+            "name": "Battery",
+            "description": "Several fireworks fused together for added effect, with a single fuse to light."
+        },
+        "dragon_eggs": {
+            "type": 0,
+            "category": 0,
+            "name": "Dragon Eggs",
+            "description": "A gold or silver breaking effect that ends in crackles or strobes."
+        },
+        "roman_candle": {
+            "type": 1,
+            "category": 0,
+            "name": "Roman Candle",
+            "description": "A small tube of multiple small illuminious balls the fire from one end."
+        },
+        "ground_spinners": {
+            "type": 0,
+            "category": 0,
+            "name": "Ground Spinners",
+            "description": "Small lightweight disks that send sparks while spinning on the ground."
+        },
+        "fountain": {
+            "type": 0,
+            "category": 0,
+            "name": "Fountain",
+            "description": "Small circlular base that emits a consistant flow of sparks upward."
+        },
+        "aqua_shell": {
+            "type": 1,
+            "category": 1,
+            "name": "Aqua Shell",
+            "description": "A shell designed to be launched across, and break on, water."
+        },
+        "blossom": {
+            "type": 0,
+            "category": 1,
+            "name": "Blossom",
+            "description": "A pretty or colourful effect likened to a flower, or an effect that opens up and expands, like a flower blossoming."
+        }
+    }]
+}

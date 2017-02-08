@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Consumer"
+        },
+        {
+            "id": 1,
+            "name": "Professional"
+        }
+    ]
+}

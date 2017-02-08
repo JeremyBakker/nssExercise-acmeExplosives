@@ -1,0 +1,22 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "Ground Display",
+            "description": "A pyrotechnic device that functions on the ground."
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "Low Level",
+            "description": "A class of firework that performs below 200 feet."
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "High Level",
+            "description": "A device propelled into the air."
+        }
+    ]
+}
